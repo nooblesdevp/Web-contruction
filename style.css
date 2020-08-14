@@ -1023,6 +1023,7 @@ input[type=text]::placeholder{
     border-radius: 5px;
     /* display: inline-flex; */
     /* position: relative; */
+    transition: .5 ease;
 }
 .pricing-tag .price-gird1:hover{
     box-shadow: 15px 10px 18px #888888;
